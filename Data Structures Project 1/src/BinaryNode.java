@@ -3,6 +3,11 @@
  * A basic node stored in an unbalanced binary search tree.
  * This class is not accessible outside of this package.
  *
+ *
+ *
+ * ******SOME METHODS THAT I USED, NOT ALL
+ * ****** NOT SHOWING ALL METHODS DUE TO HONOR CODE POLICIES**************
+ *
  * @param <T>
  *            The type of data element contained in the node.
  *
